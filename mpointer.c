@@ -28,6 +28,7 @@ int main(){
 
     printf("i = %d\n", i);
 
+    printf("HW#10 4번 과제 TEST입니다.");
     return 0;
 }
 
